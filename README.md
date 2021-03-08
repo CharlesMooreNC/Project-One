@@ -40,6 +40,6 @@ Well-optimized countdown lyrical game w/ all requirements met. Slider timer opti
 ---CSS additional inputting (advanced) - Thursday
 
 ---Final Testing - Thursday
-
+<img width="591" alt="Screen Shot 2021-03-08 at 10 52 06 AM" src="https://user-images.githubusercontent.com/80211439/110345294-68b34f80-7ffc-11eb-89c2-c309133410c3.png">
 
   
