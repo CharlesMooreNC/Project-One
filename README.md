@@ -11,6 +11,8 @@ https://developer.musixmatch.com/documentation.
 - **API SNIPPET**:
 <img width="747" alt="Screen Shot 2021-03-08 at 10 12 04 AM" src="https://user-images.githubusercontent.com/80211439/110340036-d0669c00-7ff6-11eb-8950-9d81f774286e.png">
 
+<img width="609" alt="Screen Shot 2021-03-08 at 11 07 07 AM" src="https://user-images.githubusercontent.com/80211439/110347296-779b0180-7ffe-11eb-8167-dc5ff8a726eb.png">
+
 - **WIREFRAME**:
 <img width="896" alt="Screen Shot 2021-03-08 at 10 33 55 AM" src="https://user-images.githubusercontent.com/80211439/110342874-e6299080-7ff9-11eb-8132-a0e726d82d08.png">
 
