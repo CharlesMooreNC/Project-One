@@ -5,7 +5,7 @@
 - **LYRIC MATCH**:
 Application Name.
 - **DESCRIPTION**: 
-Simple app where the user must match lyrics to popular songs. This will function as a game and be presented as a one-page layout application. 
+Simple app where the user must match lyrics to popular songs. This will function as a game and be presented as a one-page layout application. The user will be presented with a lyric to a popular song based on MusicMatch data of 'TOP 10 SONGS THAT YEAR'. There are four(4) possible answers, user must pick one in a thirty-second timeframe (represented by a time slider). 
 - **API**: 
 https://developer.musixmatch.com/documentation.
 - **API SNIPPET**:
@@ -21,7 +21,7 @@ Forms (inputs), music source data, application timer/timeout.
 Video integration, leveling, soundcasing and feedback.
 
 - **Goals**:
-Well-optimized countdown lyrical game w/ all requirements met.
+Well-optimized countdown lyrical game w/ all requirements met. Slider timer optimization. 
 
 - **Timeframes**:
 
