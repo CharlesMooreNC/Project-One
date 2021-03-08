@@ -20,7 +20,7 @@ https://developer.musixmatch.com/documentation.
 Forms (inputs), button feedback, music source data, application timer/timeout.
 
 - **Post-MVP**:
-Video integration, leveling, soundcasing and feedback. Adding song by title to the accompanying container. Leveling system where the farther the user goes, the harder the lyrics will come - either by elimination of certain words or by gathering data outside of 'Top 10 Songs'. 
+Video integration, leveling, soundcasing and feedback. Adding song by title to the accompanying container. Leveling system where the farther the user goes, the harder the lyrics will come - either by elimination of certain words or by gathering data outside of 'Top 10 Songs'. White-space elimination. Different genre progession saving on page scroll w/ new mapping. 
 
 - **Goals**:
 Well-optimized countdown lyrical game w/ all requirements met and a slider timer optimization. 
